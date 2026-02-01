@@ -73,7 +73,7 @@ select * from jpamember;
 ![회원 목록](images/list.png)
 
 ### 🔍 회원 검색 화면
-![회원 검색](images/searh.png)
+![회원 검색](images/search.png)
 
 ### 👤 회원 상세 화면
 ![회원 상세](images/memberDetail.png)
